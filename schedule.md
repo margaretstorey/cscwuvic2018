@@ -16,7 +16,7 @@ Last updated: May 10th, 2018.
   * Required readings: 
      * [CSCW: Four Characters in search of a Context](http://www-ihm.lri.fr/~mbl/ENS/CSCW/2012/papers/Bannon-ECSCW-89.pdf)
      * [How to make distance work work, by Olson and Olson](http://interactions.acm.org/archive/view/march-april-2014/how-to-make-distance-work-work)
-     * [Distributed Cognition](http://dl.acm.org/citation.cfm?id=353487) 
+     * [Distributed Cognition, by Hollan et al.](http://dl.acm.org/citation.cfm?id=353487) 
   * Optional readings: 
      * [Distance Matters by Olson and Olson](http://www.ics.uci.edu/~corps/phaseii/OlsonOlson-DistanceMatters-HCIJ.pdf)
      * [A Descriptive Framework of Workspace Awareness for Real-Time Groupware, by Gutwin](http://www.hci.usask.ca/publications/2002/awareness-jcscw.pdf)
@@ -25,7 +25,7 @@ Last updated: May 10th, 2018.
   * Blog post and comments due on required readings/videos: May 23rd
   * Required readings:
      * [Selecting a research method by Easterbrook et al.](http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf) 
-     * [Methodology Matters by McGrath](http://d.ucsd.edu/class/grad-IxD/2013/private/readings/mcgrath_methodology_matters.pdf)
+     * [Methodology Matters by McGrath](http://www.ufpa.br/cdesouza/teaching/es/2000-mcgrath.pdf)
      * [From the Matrix to a Model of Coordinated Action by Lee et al.](https://depts.washington.edu/csclab/wordpress/wp-content/uploads/CSCW2015_MoCA_preprint.pdf) 
   * Optional reading: 
      * [Evaluating CSCW: Models and Frameworks by Neal et al.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.1754&rep=rep1&type=pdf) 
