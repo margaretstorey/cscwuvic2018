@@ -5,7 +5,7 @@ Last updated: May 10th, 2018.
 
 ### Part 1: Foundations, Background and Project Proposals
 
-*Week 1, May 8th:* Introduction: Course Mechanics and Why CSCW/History of CSCW
+*Week 1, May 8th:* Introduction:
 [Course Mechanics](slides/course_mechanics.pdf) and [Why CSCW and History of CSCW](slides/course_introduction.pdf)
   * Mini-blog post (see course mechanics slides for details) due Friday May 11th and first post on Slack (Hello world) due by Monday May 13th
   * Required reading: 
@@ -13,11 +13,10 @@ Last updated: May 10th, 2018.
 
 *Week 2, May 17th:* Theories: Distance Matters, Awareness and Distributed Cognition
   * Blog post and comments due on required readings (below): by 2pm on May 16th
-  * Required readings:
-  <!---(also posted on Slack under the Week2-Theories channel for your convenience)-->  
-     * [CSCW: Four Characters in search of a Context](http://www-ihm.lri.fr/~mbl/ENS/CSCW/2012/papers/Bannon-ECSCW-89.pdf)
-     * [How to make distance work work, by Olson and Olson](http://interactions.acm.org/archive/view/march-april-2014/how-to-make-distance-work-work)
-     * [Distributed Cognition](http://dl.acm.org/citation.cfm?id=353487) 
+  * Required readings: 
+    * [CSCW: Four Characters in search of a Context](http://www-ihm.lri.fr/~mbl/ENS/CSCW/2012/papers/Bannon-ECSCW-89.pdf)
+    * [How to make distance work work, by Olson and Olson](http://interactions.acm.org/archive/view/march-april-2014/how-to-make-distance-work-work)
+    * [Distributed Cognition](http://dl.acm.org/citation.cfm?id=353487) 
   * Optional readings: 
      * [Distance Matters by Olson and Olson](http://www.ics.uci.edu/~corps/phaseii/OlsonOlson-DistanceMatters-HCIJ.pdf)
      * [A Descriptive Framework of Workspace Awareness for Real-Time Groupware, by Gutwin](http://www.hci.usask.ca/publications/2002/awareness-jcscw.pdf)
