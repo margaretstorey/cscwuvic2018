@@ -6,7 +6,7 @@ Last updated: May 10th, 2018.
 ### Part 1: Foundations, Background and Project Proposals
 
 *Week 1, May 8th:* Introduction:
-[Course Mechanics](slides/course_mechanics.pdf) and [Why CSCW and History of CSCW](slides/course_intro.pdf)
+[Course Mechanics](slides/Week1/course_mechanics.pdf) and [Why CSCW and History of CSCW](slides/Week1/course_intro.pdf)
   * Mini-blog post (see course mechanics slides for details) due Friday May 11th and first post on Slack (Hello world) due by Monday May 13th
   * Required reading: 
       * [CSCW - Computer Supported Cooperative Work by Jonathan Grudin and Steven Poltrock](https://www.interaction-design.org/encyclopedia/cscw_computer_supported_cooperative_work.html) (This is a good summary of CSCW)
