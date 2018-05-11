@@ -3,7 +3,7 @@ CSCW Course at the University of Victoria (Summer 2018)
 
 ## Important Dates: 
    * Last day to drop the course with 100% refund: May 19th
-   * Last day to drop the course without penalty of failture: June 13th
+   * Last day to drop the course without penalty of failure: June 13th
    * See the [schedule](schedule.md) page for due dates.
 
 ## Course Content (Slides and Readings):
@@ -15,6 +15,6 @@ CSCW Course at the University of Victoria (Summer 2018)
       * SENG 435: https://heat.csc.uvic.ca/coview/course/2018051/SENG435  
       * CSC 578B: https://heat.csc.uvic.ca/coview/course/2018051/CSC578B
    * Wordpress site: https://cscwuvic2018.wordpress.com (Access restricted to students registered in the class)
-   * Slack team space for CSCW 2018: https://cscwuvic2018.slack.com (Access restricted to students registered in the class)
-   * Twitter: Follow @cscwuvic, Use the hashtag #cscwuvic
+   * Slack team space for CSCW 2018: https://cscwuvic2018.slack.com (Access restricted to students registered in the class, you may use this [invitation list](https://join.slack.com/t/cscwuvic2018/shared_invite/enQtMzYxMDUxMDQyMDAwLTFlM2YzODZlNDAxZjNkZDhlMGJhZDcyYWI5ZTRiNzEwMjgzMjg2YjA0Yzg4NTRjOTdlZjViMTU4ZTQ4MGYxMmM) )
+   * (optional) Twitter: Follow @cscwuvic, Use the hashtag #cscwuvic
    
