@@ -27,7 +27,7 @@ Last updated: May 10th, 2018.
      * [A Descriptive Framework of Workspace Awareness for Real-Time Groupware, by Gutwin](http://www.hci.usask.ca/publications/2002/awareness-jcscw.pdf)
   
 *Week 3, May 24th:* Evaluation: Frameworks and Empirical methods in CSCW  
-  * Blog post and comments due on required readings/videos: May 23rd
+  * Blog post and comments due on required readings/videos: May 23rd (blog posts due by 2pm, comments due before class on 24th)
   * Required readings:
      * [Selecting a research method by Easterbrook et al.](http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf) 
      * [Methodology Matters by McGrath](http://www.ufpa.br/cdesouza/teaching/es/2000-mcgrath.pdf)
