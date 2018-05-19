@@ -29,7 +29,6 @@ Last updated: May 10th, 2018.
      * [From the Matrix to a Model of Coordinated Action by Lee et al.](https://depts.washington.edu/csclab/wordpress/wp-content/uploads/CSCW2015_MoCA_preprint.pdf) 
   * Optional reading: 
      * [Evaluating CSCW: Models and Frameworks by Neal et al.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.1754&rep=rep1&type=pdf) 
-     * TBD
 
 *Week 4, May 31st:* Techniques: Collaborative Technologies,  Social Media and Bots.  
   * Blog post and comments due: May 30th
