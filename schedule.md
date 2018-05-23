@@ -39,15 +39,14 @@ Last updated: May 10th, 2018.
   * Blog post and comments due: May 30th
   * Guest speakers: Alexey Zagalsky and Carly Lebeuf
   * Required readings:  TBD
-  <!---
      * [What is Web 2.0 by Tim O'Reilly](http://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
      * [Lessons from Ancient Media by Tom Standage (Video)](https://www.youtube.com/watch?v=ixsridS3qVs)
-     * [History of Wikipedia by Jimmy Wales (Video)](https://www.youtube.com/watch?v=WQR0gx0QBZ4)
-     * [The new open source economics by Yochai Benkler (Video)](http://www.ted.com/talks/yochai_benkler_on_the_new_open_source_economics?language=en)
      * On Slack and Bots: http://www.wired.com/2015/08/slack-overrun-bots-friendly-wonderful-bots/ 
+     * The origins of Reddit (Video): https://www.youtube.com/watch?v=tPgQsv2KPwc
   * Optional reading: 
      * [Participatory cultures in education by Jenkins et al.](https://www.macfound.org/media/article_pdfs/JENKINS_WHITE_PAPER.PDF)
-     -->
+     * [History of Wikipedia by Jimmy Wales (Video)](https://www.youtube.com/watch?v=WQR0gx0QBZ4)
+<!---      * [The new open source economics by Yochai Benkler (Video)](http://www.ted.com/talks/yochai_benkler_on_the_new_open_source_economics?language=en) -->
 
 *Week 5, June 7th:* Project proposal presentations, feedback and discussion
   * Project written proposals are due June 8th, by 5pm. 
