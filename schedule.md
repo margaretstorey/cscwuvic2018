@@ -38,7 +38,7 @@ Last updated: May 10th, 2018.
 *Week 4, May 31st:* Techniques: Collaborative Technologies,  Social Media and Bots.  
   * Blog post and comments due: May 30th
   * Guest speakers: Alexey Zagalsky and Carly Lebeuf
-  * Required readings:  TBD
+  * Required readings:  
      * [What is Web 2.0 by Tim O'Reilly](http://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
      * [Lessons from Ancient Media by Tom Standage (Video)](https://www.youtube.com/watch?v=ixsridS3qVs)
      * On Slack and Bots: http://www.wired.com/2015/08/slack-overrun-bots-friendly-wonderful-bots/ 
