@@ -36,7 +36,7 @@ Last updated: May 10th, 2018.
      * [Evaluating CSCW: Models and Frameworks by Neal et al.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.1754&rep=rep1&type=pdf) 
 
 *Week 4, May 31st:* Techniques: Collaborative Technologies,  Social Media and Bots.  
-  * Blog post and comments due: May 30th
+  * Blog post and comments due: May 30th (blog posts due by 2pm on 30th, comments due before class on 31st)
   * Guest speakers: Alexey Zagalsky and Carly Lebeuf
   * Required readings:  
      * [What is Web 2.0 by Tim O'Reilly](http://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
