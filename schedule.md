@@ -64,7 +64,7 @@ Note: the format for these weeks will include graduate student presentations plu
   * Required readings: 
     * TBD
   * Guest speaker: Prof Ray Siemens
-  * Field Trip to DHSI
+  * Field Trip to [DHSI](http://www.dhsi.org/)
 
 *Week 7, June 21st:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
   * Blog post and comments due: June 13th
