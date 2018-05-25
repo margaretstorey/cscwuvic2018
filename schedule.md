@@ -50,8 +50,19 @@ Last updated: May 10th, 2018.
 
 *Week 5, June 7th:* Project proposal presentations, feedback and discussion
   * Project written proposals are due June 8th, by 5pm. 
+  
+### Part 2: Applications of CSCW 
+Note: the format for these weeks will include graduate student presentations plus moderated discussions on student chosen topics.
 
-*Week 6, June 14th:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
+*Week 6, June 14th:* Workshop #1 (Topic: Digital Humanities, Moderated by Peggy Storey)
+  * Blog post and comments due: June 20th
+<!---  * [Agenda](software-workshop.md)-->
+  * Required readings: 
+    * TBD
+  * Guest speaker: Prof Ray Siemens
+  * Field Trip to DHSI
+
+*Week 7, June 21st:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
   * Blog post and comments due: June 13th
   * Required readings: 
      * TBD
@@ -61,24 +72,14 @@ Last updated: May 10th, 2018.
      * To Classify is Human by Bowker and Star (see the Slack Channel for this week about how to read this paper)
      * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/) -->
 
+*Week 8, June 28th:* Project update presentations (demo of Bot MVP) in class.  
+  * Project interim reports due June 29th, by 5pm. 
 
-### Part 2: Applications of CSCW 
-Note: the format for these weeks will include graduate student presentations plus moderated discussions on student chosen topics. 
-
-*Week 7, June 21st:* Workshop #1 (Topic: TBD, Moderated by Peggy Storey)
-  * Blog post and comments due: June 20th
-<!---  * [Agenda](software-workshop.md)-->
-  * Required readings: 
-    * TBD
-<!---
+<!--- if software!
      * [How do commercial software projects use GitHub? by Eirini Kalliamvakou et al.] (http://thesegalgroup.org/wp-content/uploads/2015/02/icse-camera.pdf)
      * On Slack and Bots: http://www.wired.com/2015/08/slack-overrun-bots-friendly-wonderful-bots/ (this was an optional reading earlier in the course so you may have already read it!)
      * [How software developers use Twitter by Leif Singer et al.] (http://blog.leif.me/2013/11/how-software-developers-use-twitter/)
 -->
-
-*Week 8, June 28th:* Project update presentations (demo of Bot MVP) in class.  
-  * Project interim reports due June 29th, by 5pm. 
-
 *Week 9, July 5th:* Workshop #2 
   * Blog post and comments due: July 4th
   * Topic: TBD  
