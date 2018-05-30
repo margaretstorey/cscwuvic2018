@@ -26,7 +26,7 @@ To build this project prototype, you may use any existing components or toolkits
 
 Your report will summarize the theories you build on, the collaboration problem you address, your proposed solution, how you will evaluate the solution (ideally with real users), and the findings from your design study summarizing how your findings may support or add to existing CSCW theories. 
 
-**Empirical study project:** You will design a research experiment (or other type of empirical study, e.g., case study in the field) 
+**Empirical study project:** You will design a research experiment (or other type of empirical study, e.g., case study) 
 related to some aspect of CSCW. Your report will resemble an evaluation paper you may find at the CSCW conference.  
 You will explain the need for your experiment or study, and its contribution relative to related research.  
 You will need to justify and describe your study design, your findings from the study and lessons learned. 
@@ -35,7 +35,7 @@ You will need to justify and describe your study design, your findings from the 
 Your review should summarize / classify the literature in some way. In addition, a good review will go beyond 
 summarizing the literature; it will also identify open areas / directions for future research.  There are formal techniques (such as mapping study technique) you may follow if you choose this project option. This paper](http://www.robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pdf) provides an overview of how to do systematic mapping studies in software engineering. 
 
-## Marking
+## Marking details
 
 The project is worth 40%/45% of your final grade (for grads and undergrads respectively). 
 Note the graduate student projects are expected to be more comprehensive. 
@@ -61,7 +61,7 @@ Note 3: To receive a grade of A+, your project should have some kind of research
 
 Prepare a **5 min pitch presentation** with three to five slides (upload or add a link to a Slack channel before class).  Your pitch should describe what you hope to achieve, why you work on this project, what process you will follow, and any risks you may anticipate.
 
-The **proposal** will vary depending on the kind of project you decide to work on and should only be about two pages long submitted as markdown on GitHub. 
+The **proposal** will vary depending on the kind of project you decide to work on and should only be about two pages long submitted as markdown on GitHub. List the main milestones you plan to meet in your project (these are likely to be updated throughout the term!)
 
 **Design & Analysis projects should include:**
 Description of the target application, users, and task(s). 
@@ -85,12 +85,12 @@ The interim project report should be a stand-alone document describing your prog
 
 - Introduction and Motivation (the main idea of your project stating why you work on this project clearly stating your research question or goal, as well as describing the potential impact your project findings may have on research or practice/users)  
 - Related Work (what exists out there that you will build on, what is closest to what you will do, this should show how your project is extending the state of the art or existing research on the topic)  
-- Approach and Milestones (what you plan to do in detail -- the more specific this is, the more guidance we can provide you, update us on who will do what, how you will work together and by when will you do the work, i.e. clearly state your project *milestones*. For design projects it should be crystal clear who the users are and which collaborative tasks you will support. 
+- Approach and Milestones (what you plan to do in detail for the remainder of the project -- the more specific this is, the more guidance we can provide you, update us on who will do what, how you will work together and by when will you do the work, i.e. clearly state your project *milestones*. For design projects it should be crystal clear who the users are and which collaborative tasks you will support. 
 - Implementation and Technology Choice* (for design projects, *you should have at least an MVP of your final design finalized and by now have decided on and experimented with the technology options you are using*)
 - Proposed Evaluation Steps (state how you will evaluate the main contribution and what you expect or hope to find through those steps) 
 - Risks (what could go wrong, speculate on possible challenges or hurdles you may you face) 
 - References (by the end of term, you should ideally have around 20-30 references to CSCW research papers, as well as links to websites or blog posts depending on the scope of the project) (as part of related work section)
-- Ethics (to be added)
+- Ethics (details will be posted on this shortly)
 
 ### Marking guide for the interim report (worth 10% of the project overall)
 - Problem description and motivation (the introduction of the report, how important is the problem addressed, how clearly is the problem described, do you motivate the project well): 10 marks
@@ -104,13 +104,13 @@ The interim project report should be a stand-alone document describing your prog
 
 *Peer evaluations:* In order to receive an individual mark for the project, you need to submit an evaluation for the other members on the team.  Please use the peer evaluation forms on GitHub (available as [word](PeerEval-Interim.docx) and [pdf](PeerEval-Interim.pdf) files).  Please submit these to mstorey@uvic.ca by email.  Please submit this on the day your interim report is due.
  
-### Project final submissions
+### Project final submissions 
 
 There are three submissions required for this milestone: 
 
 - a 10 minute presentation.  For design projects, you may wish to create a video showing a demonstration of your tool or of the tools you evaluated or analyzed (note:  not all projects may require a video submission), upload your slides and video (if you created one) to GitHub. In this presentation you should mention the motivation for your project, related work (brief summary or mention), the main contribution and evaluation that you have done or that is in progress, ideas for future work may also be useful to include.  
 - a final report (submitted as PDF), uploaded to GitHub. 
-- peer evaluations for other members on your team (this is required before you will be assigned your individual project mark).  Please use the peer evaluation form (available as [word](PeerEval-Interim.docx) and [pdf](PeerEval-Interim.pdf) files) and submit by email to mstorey@uvic.ca.
+- peer evaluations for other members on your team (this is required before you will be assigned your individual project mark).  Please use the peer evaluation form (available as [word](PeerEval.docx) and [pdf](PeerEval.pdf) files) and submit by email to mstorey@uvic.ca.
 
 The final report should be a stand-alone document describing your 
 complete project. You should assume the reader has no prior knowledge of your project and has not read your proposal or interim report (that is, this document subsumes the other deliverables). 
@@ -136,19 +136,6 @@ Include the following information in your report but the template I provide here
    - Future work that might be done as a follow-up
 - References
 
-### Marking guide for the final report submission (worth 20% of the project mark overall)
-- Problem description and motivation (the introduction of the report, how important is the problem addressed, how clearly is the problem described, do you motivate the project well): 15 marks (out of 100)
-- Related work (related work and references in the report, have you found the relevant papers or tools related to your project): 25 marks
-- Description of the main part of your project, design and/or study (including description of your design and/or evaluation/study decisions): 40 marks
-- Discussion and future work: 20 marks
-
-### The main "contribution of your project" is worth 50% of the project mark overall
-- For design projects, include a video and/or demo as well as any additional materials on your evaluation process and results
-- For study projects, describe your contribution in the report and attach any additional appendices
- 
-*Peer evaluations:* In order to receive an individual mark for the project, you need to submit an evaluation for the other 
-members on the team.  Please use the peer evaluation forms on GitHub (available as [word](PeerEval-Interim.docx) and 
-[pdf](PeerEval-Interim.pdf) files).  Please submit these by email to mstorey@uvic.ca. 
 
 
 
