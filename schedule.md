@@ -41,7 +41,7 @@ Last updated: May 10th, 2018.
 
 *Week 4, May 31st:* Techniques: Collaborative Technologies,  Social Media and Bots.  
   * Blog post and comments due: May 30th (blog posts due by 2pm on 30th, comments due before class on 31st)
-  * Guest speakers: Alexey Zagalsky and Carly Lebeuf
+  * Guest speakers: Alexey Zagalsky (slides posted in our Slack channel) and Carly Lebeuf
   * Required readings:  
      * [What is Web 2.0 by Tim O'Reilly](http://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
      * [Lessons from Ancient Media by Tom Standage (Video)](https://www.youtube.com/watch?v=ixsridS3qVs)
@@ -56,34 +56,28 @@ Last updated: May 10th, 2018.
   * Project written proposals are due June 8th, by 5pm. 
   
 ### Part 2: Applications of CSCW 
-Note: the format for these weeks will include graduate student presentations plus moderated discussions on student chosen topics.
+Note: the format for these weeks may include graduate student presentations plus moderated discussions on student chosen topics.
 
 *Week 6, June 14th:* Workshop #1 (Topic: Digital Humanities, Moderated by Peggy Storey)
-  * Blog post and comments due: June 20th
+  * Blog post and comments due: June 13th (Note:  please read and blog about the readings for Week 7 below as discussed in class)
 <!---  * [Agenda](software-workshop.md)-->
-  * Required readings: 
-    * TBD
+  * Optional reading: 
+    * https://www.digitalstudies.org/articles/10.16995/dscn.31/
   * Guest speaker: Prof Ray Siemens
   * Field Trip to [DHSI](http://www.dhsi.org/)
+  * Note you will blog about this topic (the lecture, short talks) after this class
 
 *Week 7, June 21st:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
-  * Blog post and comments due: June 13th
+  * Blog post and comments due on last week's workshop: June 20th by 2pm
   * Required readings: 
-     * TBD
-<!--- 
+     * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/)
+     * To Classify is Human by Bowker and Star (see the Slack Channel for this week about how to read this paper
      * [What is Ontology by Gruber (one page)](http://www-ksl.stanford.edu/kst/what-is-an-ontology.html)
      * [Ontologies are overrated by Shirky](http://www.shirky.com/writings/ontology_overrated.html) 
-     * To Classify is Human by Bowker and Star (see the Slack Channel for this week about how to read this paper)
-     * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/) -->
 
-*Week 8, June 28th:* Project update presentations (demo of Bot MVP) in class.  
+*Week 8, June 28th:* Project update presentations (e.g., demo of Bot MVP, or project update) in class.  
   * Project interim reports due June 29th, by 5pm. 
 
-<!--- if software!
-     * [How do commercial software projects use GitHub? by Eirini Kalliamvakou et al.] (http://thesegalgroup.org/wp-content/uploads/2015/02/icse-camera.pdf)
-     * On Slack and Bots: http://www.wired.com/2015/08/slack-overrun-bots-friendly-wonderful-bots/ (this was an optional reading earlier in the course so you may have already read it!)
-     * [How software developers use Twitter by Leif Singer et al.] (http://blog.leif.me/2013/11/how-software-developers-use-twitter/)
--->
 *Week 9, July 5th:* Workshop #2 
   * Blog post and comments due: July 4th
   * Topic: TBD  
