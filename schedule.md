@@ -59,16 +59,16 @@ Last updated: May 10th, 2018.
 Note: the format for these weeks may include graduate student presentations plus moderated discussions on student chosen topics.
 
 *Week 6, June 14th:* Workshop #1 (Topic: Digital Humanities, Moderated by Peggy Storey)
-  * Blog post and comments due: June 13th (Note:  please read and blog about the readings for Week 7 below as discussed in class)
+  * Blog post and comments due: due June 13th by 2pm (Note:  please blog about the readings for Week 7 as discussed in class)
 <!---  * [Agenda](software-workshop.md)-->
   * Optional reading: 
-    * https://www.digitalstudies.org/articles/10.16995/dscn.31/
+    * https://www.digitalstudies.org/articles/10.16995/dscn.31/ 
   * Guest speaker: Prof Ray Siemens
   * Field Trip to [DHSI](http://www.dhsi.org/)
   * Note you will blog about this topic (the lecture, short talks) after this class
 
 *Week 7, June 21st:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
-  * Blog post and comments due on last week's workshop: June 20th by 2pm
+  * Blog post and comments due on last week's workshop (see also the optional reading above): due June 20th by 2pm
   * Required readings: 
      * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/)
      * To Classify is Human by Bowker and Star (see the Slack Channel for this week about how to read this paper
