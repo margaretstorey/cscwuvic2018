@@ -68,6 +68,7 @@ Note: the format for these weeks may include graduate student presentations plus
   * Note you will blog about this topic (the lecture, short talks) after this class
 
 *Week 7, June 21st:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
+(Actually this is part of the foundations for the course, but due to timing of the DHSI we delayed this class)
   * Blog post and comments due on last week's workshop (see also the optional reading above): due June 20th by 2pm
   * Required readings: 
      * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/)
