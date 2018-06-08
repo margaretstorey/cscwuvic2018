@@ -74,7 +74,7 @@ Note: the format for these weeks may include graduate student presentations plus
   * Required readings: 
      * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/)
      * Chapter 1 in To Classify is Human,  by Bowker and Star (see the Readings Slack Channel for a link to this chapter)
-     * [What is Ontology by Gruber (one page)](http://www-ksl.stanford.edu/kst/what-is-an-ontology.html)
+     * [What is Ontology by Gruber (one page)](http://tomgruber.org/writing/ontology-definition-2007.htm)
      * [Ontologies are overrated by Shirky](http://www.shirky.com/writings/ontology_overrated.html) 
 
 *Week 8, June 28th:* Project update presentations (e.g., demo of Bot MVP, or project update) in class.  
