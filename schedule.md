@@ -54,6 +54,7 @@ Last updated: May 10th, 2018.
 
 *Week 5, June 7th:* Project proposal presentations, feedback and discussion
   * Project written proposals are due June 8th, by 5pm. 
+  * [Administrivia](slides/week5-administrivia.pdf)
   
 ### Part 2: Applications of CSCW 
 Note: the format for these weeks may include graduate student presentations plus moderated discussions on student chosen topics.
@@ -72,7 +73,7 @@ Note: the format for these weeks may include graduate student presentations plus
   * Blog post and comments due on last week's workshop (see also the optional reading above): due June 20th by 2pm
   * Required readings: 
      * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/)
-     * To Classify is Human by Bowker and Star (see the Slack Channel for this week about how to read this paper
+     * Chapter 1 in To Classify is Human,  by Bowker and Star (see the Readings Slack Channel for a link to this chapter)
      * [What is Ontology by Gruber (one page)](http://www-ksl.stanford.edu/kst/what-is-an-ontology.html)
      * [Ontologies are overrated by Shirky](http://www.shirky.com/writings/ontology_overrated.html) 
 
