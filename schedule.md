@@ -64,9 +64,9 @@ Note: the format for these weeks may include graduate student presentations plus
 <!---  * [Agenda](software-workshop.md)-->
   * Optional reading: 
     * https://www.digitalstudies.org/articles/10.16995/dscn.31/ 
-  * Guest speaker: Prof Ray Siemens
+  * Guest speaker: Prof Ray Siemens (Slides from this talk are posted the digital-humanities Slack channel!)
   * Field Trip to [DHSI](http://www.dhsi.org/)
-  * Note you will blog about this topic (the lecture, short talks) after this class
+  * Note you will blog about this topic (the lecture, short talks) after this class and it is due by June 20th
 
 *Week 7, June 21st:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
 (Actually this is part of the foundations for the course, but due to timing of the DHSI we delayed this class)
