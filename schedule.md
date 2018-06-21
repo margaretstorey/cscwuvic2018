@@ -71,6 +71,8 @@ Note: the format for these weeks may include graduate student presentations plus
 *Week 7, June 21st:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
 (Actually this is part of the foundations for the course, but due to timing of the DHSI we delayed this class)
   * Blog post and comments due on last week's workshop (see also the optional reading above): due June 20th by 2pm
+   * Slides: 
+     * [knowledge](slides/week7/knowledge.pdf)
   * Required readings: 
      * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/)
      * Chapter 1 in To Classify is Human,  by Bowker and Star (see the Readings Slack Channel for a link to this chapter)
