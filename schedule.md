@@ -88,7 +88,7 @@ Note: the format for these weeks may include graduate student presentations plus
   * Blog post and comments due: July 4th (by 2pm)
   * Required Readings:
      * [The future of work: Insights for CSCW](https://ieeexplore.ieee.org/document/8066668/) (Note you need to be at UVic or logged into Uvic library to access this article)
-     * [Beyond disruption](https://datasociety.net/output/beyond-disruption/) 
+     * [Beyond disruption](https://datasociety.net/output/beyond-disruption/) (Note this page is a brief summary which gives you some ideas, and it links to a much longer article that is optional to read or skim through)
   * Topic: The Future of Work (a CSCW perspective)  
   * Grad leaders: Andreas, Ying
   * Undergrad helpers: Jon, Kira, Matti
