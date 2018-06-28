@@ -84,21 +84,30 @@ Note: the format for these weeks may include graduate student presentations plus
 
 *Week 9, July 5th:* Workshop #2 
   * Blog post and comments due: July 4th
-  * Topic: TBD  
-  * Grad leaders: TBD
-  * Undergrad helpers: TBD
+  * Required Readings:
+     * [The future of work: Insights for CSCW](https://ieeexplore.ieee.org/document/8066668/) (Note you need to be at UVic or logged into Uvic library to access this article)
+     * 
+  * Topic: The Future of Work (a CSCW perspective)  
+  * Grad leaders: Andreas, Ying
+  * Undergrad helpers: Jon, Kira, Matti
+  * Agenda (tentative): 
+     * Presentations on assigned readings and more (Peggy, Jon and Ying)
+     * Guest presentation on Organizational Behaviour by Prof. 
+     * Small group activity:  Your predictions on the future work (chaired by Andreas and Kira)
  
 *Week 11, July 12th:* Workshop #3  
   * Blog post due: July 11th
-  * Topic: TBD
+  * Topic: War Stories and CSCW
   * Grad leaders: TBD
   * Undergrad helpers: TBD 
 
 *Week 11, July 19th:* Workshop #4  
   * Blog post and comments due: July 18th
-  * Topic: TBD
+  * Topic: The impact of Data on Collaboration in Software Engineering
   * Grad leaders: TBD
    * Undergrad helpers: TBD
+  * Agenda:
+    * Guest presenters! (to be announced soon)
 
 *Weeks 12 and 13, July 26th:* Project Final Presentations in-class
   * Project final reports are due by August 3rd 
