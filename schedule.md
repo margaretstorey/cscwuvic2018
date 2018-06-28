@@ -81,6 +81,8 @@ Note: the format for these weeks may include graduate student presentations plus
 
 *Week 8, June 28th:* Project update presentations (e.g., demo of Bot MVP, or project update) in class.  
   * Project interim reports due June 29th, by 5pm. 
+   * Slides: 
+     * [Administrivia](slides/week8-administrivia.pdf)
 
 *Week 9, July 5th:* Workshop #2 
   * Blog post and comments due: July 4th
