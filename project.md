@@ -107,8 +107,9 @@ The interim project report should be a stand-alone document describing your prog
 ### Project final submissions 
 
 There are three submissions required for this milestone: 
+(updated June 28th)
 
-- a 10 minute presentation.  For design projects, you may wish to create a video showing a demonstration of your tool or of the tools you evaluated or analyzed (note:  not all projects may require a video submission), upload your slides and video (if you created one) to GitHub. In this presentation you should mention the motivation for your project, related work (brief summary or mention), the main contribution and evaluation that you have done or that is in progress, ideas for future work may also be useful to include.  
+- a 5 minute video.  For design projects, your video may include your design or a demo of the prototype and any findings from your problem identification or from the evaluation of your solution.  For exploratory research, your video would describe your main research question(s), the method you used to explore that question and the findings from your study.  Upload a link of your video to Slack (project-final channel). In your video, you should also mention the motivation for your project, related work (brief summary or mention), and any ideas for future work you may have.  
 - a final report (submitted as PDF), uploaded to GitHub. 
 - peer evaluations for other members on your team (this is required before you will be assigned your individual project mark).  Please use the peer evaluation form (available as [word](PeerEval.docx) and [pdf](PeerEval.pdf) files) and submit by email to mstorey@uvic.ca.
 
