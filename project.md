@@ -7,6 +7,7 @@
 - The project will be completed in groups of 3-4 students (if the group size shrinks, this will be taken into consideration in terms of the project scope/grading).  For the most part, undergraduates and graduates should work together. 
 - The grades you will receive in part will be determined by your individual contribution to the project.
 - Check the project and cool-reads channels on Slack https://cscwuvic2018.slack.com/ for ideas and resources that may help with ideas or resources for your project.
+- If you need to evaluate or gather requirements from users that are not students in this course, you need to request ethics permission from me, see [this file](https://github.com/margaretstorey/cscwuvic2018/blob/master/project%20resources/ethics%20guidelines.pdf) for more information. 
 
 ## Important dates
 - June 7th, project pitches are due to be presented in class
@@ -90,7 +91,7 @@ The interim project report should be a stand-alone document describing your prog
 - Proposed Evaluation Steps (state how you will evaluate the main contribution and what you expect or hope to find through those steps) 
 - Risks (what could go wrong, speculate on possible challenges or hurdles you may you face) 
 - References (by the end of term, you should ideally have around 20-30 references to CSCW research papers, as well as links to websites or blog posts depending on the scope of the project) (as part of related work section)
-- Ethics (details will be posted on this shortly)
+- Ethics (you need ethics permission from me if you will use users that are not students in this course to give you feedback on your tool, see [this file](https://github.com/margaretstorey/cscwuvic2018/blob/master/project%20resources/ethics%20guidelines.pdf) for more information)
 
 ### Marking guide for the interim report (worth 10% of the project overall)
 - Problem description and motivation (the introduction of the report, how important is the problem addressed, how clearly is the problem described, do you motivate the project well): 10 marks
