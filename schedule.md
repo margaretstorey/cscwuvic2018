@@ -90,12 +90,17 @@ Note: the format for these weeks may include graduate student presentations plus
      * [The future of work: Insights for CSCW](https://ieeexplore.ieee.org/document/8066668/) (Note you need to be at UVic or logged into Uvic library to access this article)
      * [Beyond disruption](https://datasociety.net/output/beyond-disruption/) (Note this page is a brief summary which gives you some ideas, and it links to a much longer article that is optional to read or skim through)
   * Topic: The Future of Work (a CSCW perspective)  
-  * Grad leaders: Andreas, Ying
-  * Undergrad helpers: Jon, Kira, Matti
-  * Agenda (tentative): 
-     * Presentations on assigned readings and more (Peggy, Jon and Ying)
-     * Guest presentation on Organizational Behaviour by Prof. Douglas Stuart (chaired by Matti)
-     * Small group activity:  Your predictions on the future work (chaired by Andreas and Kira)
+  * Grad leaders: Andreas, Ying; Undergrad helpers: Jon, Kira, Matti
+  * Agenda: 
+     * Feedback and discussion on Digital Humanities workshop, Peggy (20 mins)
+     * Introduction to the Workshop topic: CSCW and the Future of work (Peggy, approx 25-30 mins)
+     * Break 1 (10 mins)
+     * “Workforce transitions in a time of automation”, Ying Wang (15 mins)
+     * "The future of work and work-life balance 2025", Andreas Koenzen (15 mins)
+     * "Organizational Behaviour", insights from across campus by Matti Laine Farrell (10 mins)
+     * Break 2 (10 mins)
+     * Small group activity: Your predictions on how CSCW may impact the future of work 
+(introduced and chaired by Jon Grandfield and Kira Elise Tilcock)
  
 *Week 11, July 12th:* Workshop #3  
   * Blog post due: July 11th
