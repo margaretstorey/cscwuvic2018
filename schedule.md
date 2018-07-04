@@ -103,10 +103,13 @@ Note: the format for these weeks may include graduate student presentations plus
 (introduced and chaired by Jon Grandfield and Kira Elise Tilcock)
  
 *Week 11, July 12th:* Workshop #3  
-  * Blog post due: July 11th
-  * Topic: War Stories and CSCW
-  * Grad leaders: TBD
-  * Undergrad helpers: TBD 
+  * Blog post due: July 11th by 2pm.  Topic: "Ethical implications of socio-technical systems".  (Note, no assigned reading for this week, but you may use this article as a starting point or feel free to use your own experiences or other resources: https://dl.acm.org/citation.cfm?id=3022199) 
+  * Workshop Topic: Challenges faced in CSCW ("War Stories"
+  * Workshop leaders: Leon, Hamzah, Lucas, Haotian and Peggy
+  * Agenda: 
+     * Presentations on "war stories" and challenges in CSCW (details TBA)
+     * Break
+     * A Fishbowl panel: "What Ethical implications of socio-technical systems should tool designers and users be aware of?"
 
 *Week 11, July 19th:* Workshop #4  
   * Blog post and comments due: July 18th
