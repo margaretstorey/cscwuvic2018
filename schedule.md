@@ -103,8 +103,8 @@ Note: the format for these weeks may include graduate student presentations plus
 (introduced and chaired by Jon Grandfield and Kira Elise Tilcock)
  
 *Week 11, July 12th:* Workshop #3  
-  * Blog post due: July 11th by 2pm.  Topic: "Ethical implications of socio-technical systems".  (Note, no assigned reading for this week, but you may use this article as a starting point or feel free to use your own experiences or other resources: https://dl.acm.org/citation.cfm?id=3022199, and I created a channel in our Slack where we can add links to resources around this topic) 
-  * Workshop Topic: Challenges faced in CSCW ("War Stories"
+  * Blog post due: July 11th by 2pm.  Topic: "Ethical implications of socio-technical systems".  (Note, no assigned reading for this week, but you may use this article as a starting point or feel free to use your own experiences or other resources: https://dl.acm.org/citation.cfm?id=3022199, and I created a channel in our Slack (ethics-and-cscw) where we can add links to resources around this topic, I added some already) 
+  * Workshop Topic: Challenges faced in CSCW ("War Stories")
   * Workshop leaders: Leon, Hamzah, Lucas, Haotian and Peggy
   * Agenda: 
      * Presentations on "war stories" and challenges in CSCW (details TBA)
@@ -112,7 +112,7 @@ Note: the format for these weeks may include graduate student presentations plus
      * A Fishbowl panel: "What Ethical implications of socio-technical systems should tool designers and users be aware of?"
 
 *Week 11, July 19th:* Workshop #4  
-  * Blog post and comments due: July 18th
+  * Blog post and comments due: July 18th (no specific reading this week, blog on "Reflections on how CSCW may impact Software Engineering Work Practices and Tools" -- refer back to the materials covered over the entire course for this post!)
   * Topic: The impact of Data on Collaboration in Software Engineering
   * Grad leaders: TBD
    * Undergrad helpers: TBD
