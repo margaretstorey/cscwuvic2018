@@ -102,7 +102,7 @@ Note: the format for these weeks may include graduate student presentations plus
      * Small group activity: Your predictions on how CSCW may impact the future of work 
 (introduced and chaired by Jon Grandfield and Kira Elise Tilcock)
  
-*Week 11, July 12th:* Workshop #3  
+*Week 10, July 12th:* Workshop #3  
   * Blog post due: July 11th by 2pm.  Topic: "Ethical implications of socio-technical systems".  (Note, no assigned reading for this week, but you may use this article as a starting point or feel free to use your own experiences or other resources: https://dl.acm.org/citation.cfm?id=3022199, and I created a channel in our Slack (ethics-and-cscw) where we can add links to resources around this topic, I added some already) 
   * Workshop Topic: Challenges faced in CSCW ("War Stories")
   * Workshop leaders: Leon, Hamzah, Lucas, Haotian and Peggy
