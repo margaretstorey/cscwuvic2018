@@ -86,6 +86,11 @@ Note: the format for these weeks may include graduate student presentations plus
 
 *Week 9, July 5th:* Workshop #2 
   * Blog post and comments due: July 4th (by 2pm)
+  * Slides: 
+     * [Administrivia for Week 9](slides/week9-administrivia.pdf)
+     * [Discussion from our blog on Digital Humanities](slides/week8-dhworkshop.pdf)
+     * [Future of Work introduction](slides/week9-future-of-work.pdf)
+     * See also the Slack channel for the student presentations for this week! 
   * Required Readings:
      * [The future of work: Insights for CSCW](https://ieeexplore.ieee.org/document/8066668/) (Note you need to be at UVic or logged into Uvic library to access this article)
      * [Beyond disruption](https://datasociety.net/output/beyond-disruption/) (Note this page is a brief summary which gives you some ideas, and it links to a much longer article that is optional to read or skim through)
@@ -105,19 +110,19 @@ Note: the format for these weeks may include graduate student presentations plus
 *Week 10, July 12th:* Workshop #3  
   * Blog post due: July 11th by 2pm.  Topic: "Ethical implications of socio-technical systems".  (Note, no assigned reading for this week, but you may use this article as a starting point or feel free to use your own experiences or other resources: https://dl.acm.org/citation.cfm?id=3022199, and I created a channel in our Slack (ethics-and-cscw) where we can add links to resources around this topic, I added some already) 
   * Workshop Topic: Challenges faced in CSCW ("War Stories")
-  * Workshop leaders: Leon, Hamzah, Lucas, Haotian and Peggy
+  * Workshop leaders: Leon, Hamzah, Lucas, Haotian, Jian and Peggy
   * Agenda: 
-     * Presentations on "war stories" and challenges in CSCW (details TBA)
+     * Presentations on "war stories" and challenges in CSCW (By Peggy, Haotian, Jian and Leon)
      * Break
-     * A Fishbowl panel: "What Ethical implications of socio-technical systems should tool designers and users be aware of?"
+     * A Fishbowl panel: "What Ethical implications of socio-technical systems should tool designers and users be aware of?"  Moderated by Hamzan and Lucas
 
 *Week 11, July 19th:* Workshop #4  
   * Blog post and comments due: July 18th (no specific reading this week, blog on "Reflections on how CSCW may impact Software Engineering Work Practices and Tools" -- refer back to the materials covered over the entire course for this post!)
   * Topic: The impact of Data on Collaboration in Software Engineering
-  * Grad leaders: TBD
-   * Undergrad helpers: TBD
+   * Undergrad helpers: Nathan Harmsworth, Francisco Moon, Liam Day
   * Agenda:
-    * Guest presenters! (to be announced soon)
+    * Guest presenters: Daniel German (Uvic, Open Source) and Kim Herzig (Microsoft) and TBD
+    * Activity (chaired by Nathan, Francisco and Liam)
 
 *Weeks 12 and 13, July 26th:* Project Final Presentations in-class
   * Project final reports are due by August 3rd 
