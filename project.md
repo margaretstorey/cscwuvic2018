@@ -119,24 +119,25 @@ complete project. You should assume the reader has no prior knowledge of your pr
 
 The final report should resemble a conference or journal paper that you might write for your project (but expectations of the quantity of work completed are lower than for a typical research paper, but the closer it is to a submittable form the higher the grade you will receive). 
 
-Include the following information in your report but the template I provide here is only suitable for a design project and is a suggestion of the headings, you may use different ones.  Non-design projects will certainly have different sections - talk to me if you are unsure!
+Include the following information in your report but the template I provide here is only suitable for a design project and is a suggestion of the headings, you may use different ones.  Non-design projects will certainly have different sections - talk to me if you are unsure! Marks shown below are for the grade on the final report component.
 
-- Introduction 
+- Introduction (15 marks)
    - Background information about the background theories, problem, tasks, and users
    - Motivation for why the project was important to pursue and describe the anticipated impact of your work on related research or state of the art
-- Related work
+- Related work (15 marks)
    - Other similar solutions to the problem you address
 - This should be of the form of a literature review as you would see in a research paper, note everything you discuss in here thought should be related to your project
-- Approach
+- Approach (20 marks)
    - Description of your design
    - Reasons for your design choices and alternatives that were considered
-- Implementation details
-- Findings from the evaluation
-- Discussion
+- Implementation details  (15 marks)
+- Findings from the evaluation  (20 marks)
+- Discussion (15 marks)
    - Strengths and weaknesses of your approach and implementation
    - Lessons you learned
    - Future work that might be done as a follow-up
-- References
+- References (see related work)
+
 
 
 
