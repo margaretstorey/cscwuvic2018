@@ -114,10 +114,9 @@ Note: the format for these weeks may include graduate student presentations plus
   * Agenda:
      * Assorted War Stories and Challenges faced in CSCW
         * "Failure of CSCW Tools" presented by Haotian Shen (20 mins)
-        * "When distributed situation awareness goes wrong" presented by Peggy Storey (10 mins) 
-        * "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (10 mins)
         * "CSCW&Education, Challenges and Future", presented by Leon (15 mins)
         * "The Role of Social Media in MOOCs (and challenges encountered)" presented by Jian Wu (20 mins)
+        * "When distributed situation awareness goes wrong" presented by Peggy Storey (15 mins) 
      * Ethics and CSCW
         * Videos and Short presentations by Hamzah, Lucas and invited guest Jorin Weatherstone (30 mins)
         * A Fishbowl panel: "Ethical considerations and CSCW"  Moderated by Hamzan and Lucas (20 mins)
@@ -128,6 +127,7 @@ Note: the format for these weeks may include graduate student presentations plus
    * Undergrad helpers: Nathan Harmsworth, Francisco Moon, Liam Day
   * Agenda:
     * Guest presenters: Daniel German (Uvic, Open Source) and Kim Herzig (Microsoft) and TBD
+    *  * "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (15 mins)
     * Activity (chaired by Nathan, Francisco and Liam)
 
 *Weeks 12 and 13, July 26th:* Project Final Presentations in-class
