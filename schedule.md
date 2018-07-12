@@ -111,17 +111,16 @@ Note: the format for these weeks may include graduate student presentations plus
   * Blog post due: July 11th by 2pm.  Topic: "Ethical implications of socio-technical systems".  (Note, no assigned reading for this week, but you may use this article as a starting point or feel free to use your own experiences or other resources: https://dl.acm.org/citation.cfm?id=3022199, and I created a channel in our Slack (ethics-and-cscw) where we can add links to resources around this topic, I added some already) 
   * Workshop Topic: CSCW Challenges
   * Workshop leaders: Leon, Hamzah, Lucas, Haotian, Jian and Peggy (and guest Jorin Weatherstone)
-  * Agenda: 
-     * CSCW and Education
-        * "CSCW&Education, Challenges and Future", presented by Leon (15 mins, including discussion)
-        * "The Role of Social Media in MOOCs (and challenges encountered)" presented by Jian Wu (20 mins, including discussion)
-     * Assorted War Stories in CSCW
-        * "Failure of CSCW Tools" presented by Haotian Shen (20 mins, including discussion)
-        * "When distributed situation awareness goes wrong" presented by Peggy Storey (15 mins, including discussion)
-        * "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (15 mins, including discussion)
+  * Agenda:
+     * Assorted War Stories and Challenges faced in CSCW
+        * "Failure of CSCW Tools" presented by Haotian Shen (20 mins)
+        * "When distributed situation awareness goes wrong" presented by Peggy Storey (10 mins) 
+        * "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (10 mins)
+        * "CSCW&Education, Challenges and Future", presented by Leon (15 mins)
+        * "The Role of Social Media in MOOCs (and challenges encountered)" presented by Jian Wu (20 mins)
      * Ethics and CSCW
-        * Short presentations by Hamzah, Lucas and invited guest Jorin Weatherstone (20 mins)
-        * A Fishbowl panel: "Ethical considerations and CSCW"  Moderated by Hamzan and Lucas (30 mins)
+        * Videos and Short presentations by Hamzah, Lucas and invited guest Jorin Weatherstone (30 mins)
+        * A Fishbowl panel: "Ethical considerations and CSCW"  Moderated by Hamzan and Lucas (20 mins)
 
 *Week 11, July 19th:* Workshop #4  
   * Blog post and comments due: July 18th (no specific reading this week, blog on "Reflections on how CSCW may impact Software Engineering Work Practices and Tools" -- refer back to the materials covered over the entire course for this post!)
