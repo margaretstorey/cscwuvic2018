@@ -111,6 +111,7 @@ Note: the format for these weeks may include graduate student presentations plus
   * Blog post due: July 11th by 2pm.  Topic: "Ethical implications of socio-technical systems".  (Note, no assigned reading for this week, but you may use this article as a starting point or feel free to use your own experiences or other resources: https://dl.acm.org/citation.cfm?id=3022199, and I created a channel in our Slack (ethics-and-cscw) where we can add links to resources around this topic, I added some already) 
   * Workshop Topic: CSCW Challenges
   * Workshop leaders: Leon, Hamzah, Lucas, Haotian, Jian and Peggy (and guest Jorin Weatherstone)
+  * * [Workshop Slides, includes links to other presentations](slides/week10-war-stories.pdf)
   * Agenda:
      * Assorted War Stories and Challenges faced in CSCW
         * "Failure of CSCW Tools" presented by Haotian Shen (20 mins)
@@ -122,15 +123,18 @@ Note: the format for these weeks may include graduate student presentations plus
         * A Fishbowl panel: "Ethical considerations and CSCW"  Moderated by Hamzan and Lucas (20 mins)
 
 *Week 11, July 19th:* Workshop #4  
-  * Blog post and comments due: July 18th (no specific reading this week, blog on "Reflections on how CSCW may impact Software Engineering Work Practices and Tools" -- refer back to the materials covered over the entire course for this post!)
+  * Blog post and comments due: July 18th (no specific reading this week, blog on "Reflections on how CSCW may impact Software Engineering Work Practices and Tools" -- refer back to the materials covered over the entire course for this post and relate to your project if you wish!)
   * Topic: The impact of Data on Collaboration in Software Engineering
-   * Undergrad helpers: Nathan Harmsworth, Francisco Moon, Liam Day
-  * Agenda:
-    * Guest presenters: Daniel German (Uvic, Open Source) and Kim Herzig (Microsoft) and TBD
-    *  * "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (15 mins)
-    * Activity (chaired by Nathan, Francisco and Liam)
+   * Undergrad helpers: Nathan Harmsworth and Liam Day
+  * Agenda (tentative):
+    * Leif Singer (Automattic (Wordpress),  Germany): "Three not entirely surprising ways Automattic uses data"
+    * Kim Herzig (Microsoft, USA): "The new collaboration language during development cycles: Telemetry"
+    * BREAK
+    * Daniel German (Uvic, Open Source): "Measuring Health of Open Source Systems"
+    * Student Presentations (by Nathan and Liam): Titles to be posted
+    *  "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (If time!)
 
-*Weeks 12 and 13, July 26th:* Project Final Presentations in-class
+*Weeks 12 and 13, July 26th:* Project Final Presentations in-class (5 minute videos)
   * Project final reports are due by August 3rd 
 
 
