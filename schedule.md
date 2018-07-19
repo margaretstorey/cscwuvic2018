@@ -125,16 +125,18 @@ Note: the format for these weeks may include graduate student presentations plus
 *Week 11, July 19th:* Workshop #4  
   * Blog post and comments due: July 18th (no specific reading this week, blog on "Reflections on how CSCW may impact Software Engineering Work Practices and Tools" -- refer back to the materials covered over the entire course for this post and relate to your project if you wish!)
   * Topic: The impact of Data on Collaboration in Software Engineering
-   * Undergrad helpers: Nathan Harmsworth and Liam Day
-  * Agenda (tentative):
+  * Agenda (we will use Slack for in class discussions and asking questions, see the softdev-cscw channel):
     * Leif Singer (Automattic (Wordpress),  Germany): "Three not entirely surprising ways Automattic uses data"
     * Kim Herzig (Microsoft, USA): "The new collaboration language during development cycles: Telemetry"
     * BREAK
     * Daniel German (Uvic, Open Source): "Measuring Health of Open Source Systems"
-    * Student Presentations (by Nathan and Liam): Titles to be posted
-    *  "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (If time!)
+    *  "Data Scientists in Software Teams: State of the Art and Challenges", presented by Liam Day (see https://ieeexplore.ieee.org/document/8046093/) 
+    * "Sensing Interruptibility in the Office", presented by Nathan Harmsworth (see https://dl.acm.org/citation.cfm?id=3174165 and https://www.andre-meyer.ch/flowlight/) 
 
 *Weeks 12 and 13, July 26th:* Project Final Presentations in-class (5 minute videos)
-  * Project final reports are due by August 3rd 
+  * Agenda for July 26th:
+     * "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (If time!)
+     * Project videos showcase (5 mins per team)
+  * Project final reports are due by August 3rd (by end of day)
 
 
