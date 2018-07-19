@@ -135,7 +135,7 @@ Note: the format for these weeks may include graduate student presentations plus
 
 *Weeks 12 and 13, July 26th:* Project Final Presentations in-class (5 minute videos)
   * Agenda for July 26th:
-     * "Why Google Wave did not succeed, but Slack did" presented by Peggy Storey (If time!)
+     * "Why Google Wave did not succeed, but Slack and GitHub did" presented by Peggy Storey (If time!)
      * Project videos showcase (5 mins per team)
   * Project final reports are due by August 3rd (by end of day)
 
