@@ -131,13 +131,15 @@ Note: the format for these weeks may include graduate student presentations plus
     * BREAK
     * Daniel German (Uvic, Open Source): "Measuring Health of Open Source Systems"
     *  "Data Scientists in Software Teams: State of the Art and Challenges", presented by Liam Day (see https://ieeexplore.ieee.org/document/8046093/) 
-    * "Sensing Interruptibility in the Office", presented by Nathan Harmsworth (see https://dl.acm.org/citation.cfm?id=3174165 and https://www.andre-meyer.ch/flowlight/) 
 
 *Weeks 12 and 13, July 26th:* Project Final Presentations in-class (5 minute videos)
   * Agenda for July 26th:
+     * Brief recap on the course! (Peggy Storey)
      * "Why Google Wave did not succeed, but Slack and GitHub did" presented by Peggy Storey
-     * Break
+     * "Sensing Interruptibility in the Office", presented by Nathan Harmsworth (see https://dl.acm.org/citation.cfm?id=3174165 and https://www.andre-meyer.ch/flowlight/) 
+     * Break 
      * Project videos showcase (5 mins per team)
+     * Instructor and course evaluations (CES)
   * Note:  there will be no class on August 2nd.  Please use that time to meet as a group and to finalize your group project reports. 
   * Project final reports are due by August 3rd (by end of day)
 
