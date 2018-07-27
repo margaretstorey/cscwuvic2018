@@ -134,8 +134,8 @@ Note: the format for these weeks may include graduate student presentations plus
 
 *Weeks 12 and 13, July 26th:* Project Final Presentations in-class (5 minute videos)
   * Agenda for July 26th:
-     * Brief recap on the course! (Peggy Storey)
-     * "Why Google Wave did not succeed, but Slack and GitHub did" presented by Peggy Storey
+     * [Brief recap on the course!](week12-course-recap.pdf) (Peggy Storey)
+     * ["Why Google Wave did not succeed, but Slack and GitHub did"](week10-wave-slack-github.pdf) presented by Peggy Storey
      * "Sensing Interruptibility in the Office", presented by Nathan Harmsworth (see https://dl.acm.org/citation.cfm?id=3174165 and https://www.andre-meyer.ch/flowlight/) 
      * Break 
      * Project videos showcase (5 mins per team)
